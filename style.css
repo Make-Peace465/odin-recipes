@@ -1,0 +1,15 @@
+* {
+    background-color: #FFFAF1;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+h1 {
+    color: #404E4D;
+    font-size: 40px; 
+}
+
+ul, li, a {
+    background-color: #D0CFC8;
+    width: 300px;
+}

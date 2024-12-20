@@ -8,3 +8,7 @@ h1 {
     color: #404E4D;
     font-size: 40px; 
 }
+
+p, li {
+    color: #2E0E02;
+}

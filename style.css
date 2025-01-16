@@ -12,3 +12,13 @@ h1 {
 p, li {
     color: #2E0E02;
 }
+
+.description-box {
+   padding: 0 8px;
+   border: 1px solid black; 
+   background-color: #ffdadb;
+}
+
+.description-box > p,a {
+   background-color: #ffdadb;
+}

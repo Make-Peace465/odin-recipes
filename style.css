@@ -19,6 +19,19 @@ p, li {
    background-color: #ffdadb;
 }
 
-.description-box > p,a {
-   background-color: #ffdadb;
+.description-box > p {
+    background-color: #ffdadb;
+}
+
+.description-box a {
+    background-color: #ffdadb;
+ }
+
+.food-list {
+    background-color: lightyellow;
+}
+
+.food-list ul li {
+    display: inline-block;
+    padding: 0 20px;
 }

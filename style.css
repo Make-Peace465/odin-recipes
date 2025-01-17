@@ -13,6 +13,7 @@ p, li {
     color: #2E0E02;
 }
 
+/*For index page*/
 .description-box {
    padding: 0 8px;
    border: 1px solid black; 
@@ -34,4 +35,27 @@ p, li {
 .food-list ul li {
     display: inline-block;
     padding: 0 20px;
+}
+
+/*For sub-page*/
+.sub-img {
+    display: inline-block;
+    float: left;
+}
+
+.sub-description-box {
+    height: 350px;
+    width: 60%;
+    padding: 25px;
+    display: inline-block;
+}
+
+.ingredients-box {
+    width: 30%;
+    float: left;
+}
+
+.step-box{
+    width: 70%;
+    float: right;
 }

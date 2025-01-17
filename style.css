@@ -39,7 +39,6 @@ p, li {
 
 /*For sub-page*/
 .sub-img {
-    display: inline-block;
     float: left;
 }
 
@@ -47,7 +46,6 @@ p, li {
     height: 350px;
     width: 60%;
     padding: 25px;
-    display: inline-block;
 }
 
 .ingredients-box {
